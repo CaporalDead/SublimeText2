@@ -1,0 +1,37 @@
+{
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AndyJS2",
+		"AndyPHP",
+		"atoum",
+		"BracketHighlighter",
+		"Compass",
+		"Composer",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Goto Documentation",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JS Snippets",
+		"PHP Code Coverage",
+		"PHP Namespace Command",
+		"PHP Syntax Checker",
+		"PHP Zend Framework 2 Helper",
+		"PHP-Twig",
+		"Phpcs",
+		"PhpDox",
+		"PhpNamespace",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Symfony2 Snippets",
+		"Theme - Nexus",
+		"TortoiseSVN",
+		"Twig",
+		"Twitter Bootstrap Snippets"
+	]
+}
